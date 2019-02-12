@@ -1,0 +1,14 @@
+# package directories
+node_modules
+jspm_packages
+
+# Serverless directories
+.serverless
+
+# Enviroment Variables
+config.dev.json
+config.beta.json
+config.prod.json
+
+# NPM Package Lock
+package-lock.json

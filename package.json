@@ -1,0 +1,29 @@
+{
+  "name": "loyalty-api-backend",
+  "version": "1.0.0",
+  "description": "Logica principal para tener un programa de fidelizacion propio",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jciangarotti/loyalty-api-backend.git"
+  },
+  "keywords": [
+    "Loyalty",
+    "redemtion",
+    "accrual",
+    "account"
+  ],
+  "author": "Javier Ciangarotti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jciangarotti/loyalty-api-backend/issues"
+  },
+  "homepage": "https://github.com/jciangarotti/loyalty-api-backend#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "serverless-http": "^1.9.0"
+  }
+}
